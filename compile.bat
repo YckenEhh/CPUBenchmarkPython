@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "%CD%/icon.ico"  "%CD%/Main.py"
